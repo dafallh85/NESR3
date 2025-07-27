@@ -17,7 +17,7 @@
 - channel(https://t.me/GAMENESR3)
 - 📩 Email: nes3@nesr3.com
 
-لتوفير الأمان والشفافية، تعد NES3 عملة رقمية مصممة لدعم صناعة ألعاب الفيديو.
+To provide security and transparency, NES3 is a digital currency designed to support the video game industry.
 https://bscscan.com/token/0x6E2dad6405bF68Ffcda0dCD551f10EB029E29313
 
 
