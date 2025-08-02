@@ -1,0 +1,17 @@
+{
+  "token_name": "NES3",
+  "token_symbol": "NES3",
+  "contract_address": "0x6E2dad6405bF68Ffcda0dCD551f10EB029E29313",
+  "total_tokens_for_sale": 50000000,
+  "price_per_token_usd": 0.02,
+  "total_raise_usd": 1000000,
+  "fund_distribution": {
+    "liquidity": 75,
+    "project_growth": 25
+  },
+  "network": "BNB Chain",
+  "website": "https://nesr3.com",
+  "telegram": "https://t.me/GAMENESR_3",
+  "email": "nes3@nesr3.com",
+  "logo": "logo.png"
+}
