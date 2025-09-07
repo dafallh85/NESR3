@@ -16,7 +16,7 @@
 - 💬 Telegram Community: [https://t.me/GAMENES3]
 - channel(https://t.me/GAMENESR3)
 - 📩 Email: nes3@nesr3.com
-
+📬 Telegram Contact: https://t.me/Token_Officer
 To provide security and transparency, NES3 is a digital currency designed to support the video game industry.
 https://bscscan.com/token/0x6E2dad6405bF68Ffcda0dCD551f10EB029E29313
 
