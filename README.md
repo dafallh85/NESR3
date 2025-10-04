@@ -12,10 +12,10 @@ Official repository for the **GAME NESR3** token — a digital currency designed
 - 🐦 Twitter (X): https://x.com/gamenesr3  
 - 💬 Telegram Official: https://t.me/GAMENESR3  
 - 📬 Telegram Contact: https://t.me/Token_Officer  
+- 🏛️ NES3 Telegram Group: https://t.me/GAMENES3  
 - 📄 Token Contract (BEP-20): `0x6E2dad6405bF68Ffcda0dCD551f10EB029E29313`  
 - 🔍 BscScan: [View on BscScan](https://bscscan.com/token/0x6E2dad6405bF68Ffcda0dCD551f10EB029E29313)  
 - 🗓️ Launch Date: January 5, 2025
----
 
 ## ℹ️ Token Information
 - **Name:** NESR3  
