@@ -3,7 +3,7 @@
 ## ✅ Phase 1: Project Foundation (Q1 2025)
 - Concept creation and team formation.
 - Smart contract development for NES3 token.
-- Website launch: [https://nesr3.com](https://nesr3.com)
+- Website launch: [https://nesr3.sbs](https://nesr3.sbs)
 - Creation of official social media and community channels.
 - Deployment of NES3 token on BNB Chain.
 
