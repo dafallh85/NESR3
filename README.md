@@ -6,9 +6,9 @@ Official repository for the **GAME NESR3** token — a digital currency designed
 ---
 
 ## 🔗 Official Links
-- 🌐 Website: https://nesr3.com/  
+- 🌐 Website: https://nesr3.sbs/  
 - 🎥 YouTube Project Video: https://youtu.be/yzv7CH7wq34  
-- ✉️ Official Email: nes3@nesr3.com  
+- ✉️ Official Email: nes3@nesr3.sbs  
 - 🐦 Twitter (X): https://x.com/gamenesr3  
 - 💬 Telegram Official: https://t.me/GAMENESR3  
 - 📬 Telegram Contact: https://t.me/Token_Officer  
