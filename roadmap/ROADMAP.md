@@ -1,31 +1,49 @@
 # 🛣️ NES3 Roadmap
 
-## ✅ Phase 1: Project Foundation (Q1 2025)
-- Concept creation and team formation.
-- Smart contract development for NES3 token.
-- Website launch: [https://nesr3.sbs](https://nesr3.sbs)
-- Creation of official social media and community channels.
-- Deployment of NES3 token on BNB Chain.
+# NESR3 (NES3) – Official Roadmap
+Roadmap covering the project's development from 2025 to 2030.
 
-## 🚀 Phase 2: Pre-launch and Community Growth (Q2 2025)
-- Launch of Whitepaper.
-- Start of private sale and IDO planning.
-- Community building through Telegram and X (Twitter).
-- Marketing and branding initiatives.
-- Release of the NES3 game (Beta version).
+## Phase 1 – Foundation (Q1–Q2 2025)
+- Official launch of NESR3 brand
+- Activation of X and Telegram channels
+- Website & GitHub repository launch
+- Token verification on BscScan
+- Litepaper V1 release
+- Community building
+- Launch of the official NESR3 game
 
-## 🌐 Phase 3: IDO and Token Listing (Q3 2025)
-- Conduct Initial DEX Offering (IDO).
-- List NES3 on PancakeSwap and other DEXs.
-- Apply to CoinMarketCap and CoinGecko.
-- Strengthen strategic partnerships.
+## Phase 2 – Core Development (Q3–Q4 2025)
+- Game updates and improvements
+- NES3 token integration inside the game
+- NES3 rewards system
+- Investor & Player Dashboard
+- First marketing campaigns
 
-## 🎮 Phase 4: Game Development and Expansion (Q4 2025)
-- Launch full version of the NES3 Game.
-- Enable token utility within the game (payments, rewards).
-- Expand team and improve scalability.
+## Phase 3 – Expansion (Q1–Q3 2026)
+- Game Expansion V2 development
+- In-game marketplace launch
+- Web3 wallet integration
+- Enhanced graphics and sound
+- Web3 partnerships
+- Additional exchange listings
 
-## 🛡️ Phase 5: Ecosystem Maturity and DAO Governance (2026)
-- Launch NES3 DAO for decentralized governance.
-- Integrate staking, NFT marketplace, and cross-chain support.
-- Continual updates to the game and ecosystem based on community input.
+## Phase 4 – Full Platform (Q4 2026 – Q2 2027)
+- Unified NESR3 platform release
+- NESR3 mobile apps (iOS & Android)
+- NES3 in-game purchases
+- Battle Arena launch
+
+## Phase 5 – Smart Economy (Q3 2027 – 2028)
+- NFT support inside the game
+- Minting system
+- NES3 staking platform
+- NES3 Creators Fund
+- International partnerships
+
+## Phase 6 – Global Expansion (2029–2030)
+- Global Web3 gaming platform
+- International game releases
+- Partnerships with major gaming companies
+- NESR3 World Cup esports championship
+- VR/AR version development
+- Global development team expansion
