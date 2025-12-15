@@ -1,9 +1,9 @@
 # 🛣️ NES3 Roadmap
 
 # NESR3 (NES3) – Official Roadmap
-Roadmap covering the project's development from 2025 to 2030.
+Roadmap covering the project's development from 2026 to 2030.
 
-## Phase 1 – Foundation (Q1–Q2 2025)
+## Phase 1 – Foundation (Q1–Q2 2026)
 - Official launch of NESR3 brand
 - Activation of X and Telegram channels
 - Website & GitHub repository launch
@@ -12,14 +12,14 @@ Roadmap covering the project's development from 2025 to 2030.
 - Community building
 - Launch of the official NESR3 game
 
-## Phase 2 – Core Development (Q3–Q4 2025)
+## Phase 2 – Core Development (Q3–Q4 2026)
 - Game updates and improvements
 - NES3 token integration inside the game
 - NES3 rewards system
 - Investor & Player Dashboard
 - First marketing campaigns
 
-## Phase 3 – Expansion (Q1–Q3 2026)
+## Phase 3 – Expansion (Q1–Q7 2026)
 - Game Expansion V2 development
 - In-game marketplace launch
 - Web3 wallet integration
