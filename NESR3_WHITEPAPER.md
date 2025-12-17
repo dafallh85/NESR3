@@ -84,5 +84,5 @@ It provides security, transparency, and efficiency for gaming platforms, in-game
 - **Telegram (Official):** [https://t.me/GAMENESR3](https://t.me/GAMENESR3)  
 - **Telegram Contact Officer:** [https://t.me/Token_Officer](https://t.me/Token_Officer)  
 - **Telegram Community:** [https://t.me/GAMENES3](https://t.me/GAMENES3)  
-- **GitHub Repository:** [https://github.com/dafallh85/NESR3](https://github.com/dafallh85/NESR3)  
+- **GitHub Repository:** [https://github.com/dafallh85/NESR3.git](https://github.com/dafallh85/NESR3.git)  
 - **Token Contract on BscScan:** [https://bscscan.com/token/0x6E2dad6405bF68Ffcda0dCD551f10EB029E29313](https://bscscan.com/token/0x6E2dad6405bF68Ffcda0dCD551f10EB029E29313)
