@@ -7,7 +7,7 @@ Official repository for the **GAME NESR3** token — a digital currency designed
 
 ## 🔗 Official Links
 - 🌐 Website: https://nesr3.sbs/  
-- 🎥 YouTube Project Video: https://youtu.be/YS44lgb29eY?si=vdZf6hHriWCT9JEm  
+- 🎥 YouTube Project Video:  https://youtu.be/FzVvIlf9xW0?si=PnNynOl_kkS6c_e7 
 - ✉️ Official Email: nes3@nesr3.sbs  
 - 🐦 Twitter (X): https://x.com/gamenesr3  
 - 💬 Telegram Official: https://t.me/GAMENESR3  
@@ -29,7 +29,7 @@ Official repository for the **GAME NESR3** token — a digital currency designed
 ## 🎬 Project Video
 Click the image to watch the video on YouTube:
 
-[![Watch on YouTube](https://youtu.be/YS44lgb29eY?si=vdZf6hHriWCT9JEm)](https://youtu.be/YS44lgb29eY?si=vdZf6hHriWCT9JEm)
+[![Watch on YouTube](https://youtu.be/FzVvIlf9xW0?si=PnNynOl_kkS6c_e7)](https://youtu.be/FzVvIlf9xW0?si=PnNynOl_kkS6c_e7)
 
 Or open directly via this link:  
 🎥 https://youtu.be/yzv7CH7wq34
