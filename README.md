@@ -29,9 +29,11 @@ Official repository for the **GAME NESR3** token — a digital currency designed
 ## 🎬 Project Video
 Click the image to watch the video on YouTube:
 
-[![Watch on YouTube](https://youtu.be/FzVvIlf9xW0?si=EhYWxmMjgpUCRjgG]https://youtu.be/FzVvIlf9xW0?si=EhYWxmMjgpUCRjgG()
+انقر على الصورة لمشاهدة الفيديو على يوتيوب:
 
-Or open directly via this link:  
+[![شاهد على يوتيوب](https://img.youtube.com/vi/FzVvIlf9xW0/0.jpg)](https://youtu.be/FzVvIlf9xW0?si=EhYWxmMjgpUCRjgG)
+
+أو افتح مباشرةً عبر هذا الرابط:  
 🎥 https://youtu.be/FzVvIlf9xW0?si=EhYWxmMjgpUCRjgG
 
 ---
