@@ -32,7 +32,7 @@ Click the image to watch the video on YouTube:
 [![Watch on YouTube](https://youtu.be/FzVvIlf9xW0?si=EhYWxmMjgpUCRjgG]https://youtu.be/FzVvIlf9xW0?si=EhYWxmMjgpUCRjgG()
 
 Or open directly via this link:  
-🎥 https://youtu.be/yzv7CH7wq34
+🎥 https://youtu.be/FzVvIlf9xW0?si=EhYWxmMjgpUCRjgG
 
 ---
 
