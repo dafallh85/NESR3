@@ -16,7 +16,8 @@ Official repository for the **GAME NESR3** token — a digital currency designed
 - 📄 Token Contract (BEP-20): `0x6E2dad6405bF68Ffcda0dCD551f10EB029E29313`  
 - 🔍 BscScan: [View on BscScan](https://bscscan.com/token/0x6E2dad6405bF68Ffcda0dCD551f10EB029E29313)  
 - 🗓️ Launch Date: January 5, 2025
-
+- 🔍 github: https://github.com/dafallh85/NESR3
+ 
 ## ℹ️ Token Information
 - **Name:** NESR3  
 - **Symbol:** NES3  
