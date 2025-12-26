@@ -5,19 +5,7 @@ Official repository for the **GAME NESR3** token — a digital currency designed
 
 ---
 
-## 🔗 Official Links
-- 🌐 Website: https://nesr3.sbs/  
-- 🎥 YouTube Project Video:  https://youtu.be/FzVvIlf9xW0?si=PnNynOl_kkS6c_e7 
-- ✉️ Official Email: nes3@nesr3.sbs  
-- 🐦 Twitter (X): https://x.com/gamenesr3  
-- 💬 Telegram Official: https://t.me/GAMENESR3  
-- 📬 Telegram Contact: https://t.me/Token_Officer  
-- 🏛️ NES3 Telegram Group: https://t.me/GAMENES3  
-- 📄 Token Contract (BEP-20): `0x6E2dad6405bF68Ffcda0dCD551f10EB029E29313`  
-- 🔍 BscScan: [View on BscScan](https://bscscan.com/token/0x6E2dad6405bF68Ffcda0dCD551f10EB029E29313)  
-- 🗓️ Launch Date: January 5, 2025
-- 🔍 github: https://github.com/dafallh85/NESR3
- 
+
 ## ℹ️ Token Information
 - **Name:** NESR3  
 - **Symbol:** NES3  
@@ -26,15 +14,6 @@ Official repository for the **GAME NESR3** token — a digital currency designed
 - **Founder:** Dhaifallah Almalki
 
 ---
-
-## 🎬 Project Video
-Click on the image below to watch the video on YouTube:
-
-[![Watch on YouTube](https://img.youtube.com/vi/FzVvIlf9xW0/0.jpg)](https://youtu.be/FzVvIlf9xW0?si=EhYWxmMjgpUCRjgG)
-
-Or open it directly via this link:  
-🎥 https://youtu.be/FzVvIlf9xW0?si=EhYWxmMjgpUCRjgG
-
 ---
 
 ## 📁 Suggested Repository Structure
