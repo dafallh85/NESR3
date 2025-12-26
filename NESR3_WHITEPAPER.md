@@ -4,9 +4,8 @@
 **NESR3** is a blockchain-based digital token designed to support the **video game industry**.  
 It provides security, transparency, and efficiency for gaming platforms, in-game transactions, and digital asset management.  
 **Official Launch Date:** January 6, 2025  
-**Total Supply:** 1,000,000,000 NES3  
-**Website:** [https://nesr3.sbs](https://nesr3.sbs)  
-**Contract / Token address:** [BscScan NES3](https://bscscan.com/token/0x6E2dad6405bF68Ffcda0dCD551f10EB029E29313)  
+**Total Supply:** 1,000,000,000 NES3    
+**Contract / Token address:** [BscScan NES3] token/0x6E2dad6405bF68Ffcda0dCD551f10EB029E29313)  
 
 ---
 
@@ -77,13 +76,3 @@ It provides security, transparency, and efficiency for gaming platforms, in-game
 
 ---
 
-## 8️⃣ Official Contacts
-- **Website:** [https://nesr3.sbs](https://nesr3.sbs)  
-- **Email:** nes3@nesr3.sbs  
-- **X (Twitter):** [https://x.com/gamenesr3](https://x.com/gamenesr3)  
-- **Telegram (Official):** [https://t.me/GAMENESR3](https://t.me/GAMENESR3)  
-- **Telegram Contact Officer:** [https://t.me/Token_Officer](https://t.me/Token_Officer)  
-- **Telegram Community:** [https://t.me/GAMENES3](https://t.me/GAMENES3)  
-- **GitHub Repository:** [https://github.com/dafallh85/NESR3.git](https://github.com/dafallh85/NESR3.git)  
-- **Token Contract on BscScan:** [https://bscscan.com/token/0x6E2dad6405bF68Ffcda0dCD551f10EB029E29313](https://bscscan.com/token/0x6E2dad6405bF68Ffcda0dCD551f10EB029E29313)
--https://youtu.be/FzVvIlf9xW0?si=PnNynOl_kkS6c_e7
