@@ -1,6 +1,6 @@
 # NESR3 (NES3) — Official Roadmap V2.0
 
-**Updated:** September 29, 2026
+**Updated:** September , 2026
 
 This roadmap reflects the current development status of NESR3.
 
