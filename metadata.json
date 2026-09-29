@@ -1,10 +1,10 @@
 {
   "name": "NESR3",
   "symbol": "NES3",
-  "network": "Binance Smart Chain",
+  "network": "BNB Smart Chain",
   "type": "BEP-20",
   "total_supply": "1000000000",
   "decimals": 18,
-  "network": "BNB Smart Chain",
-  "description": "BEP-20 token smart contract for educational and development purposes."
+  "contract_address": "0x6E2dad6405bF68Ffcda0dCD551f10EB029E29313",
+  "description": "Gaming-focused BEP-20 token designed to support the NESR3 Web3 gaming ecosystem."
 }
